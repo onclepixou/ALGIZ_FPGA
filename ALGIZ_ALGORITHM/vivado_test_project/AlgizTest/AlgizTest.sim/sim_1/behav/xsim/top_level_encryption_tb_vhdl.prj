@@ -1,0 +1,25 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../AlgizTest.srcs/sources_1/imports/Algiz_algorithm/GF2_mux_1.vhd" \
+"../../../../AlgizTest.srcs/sources_1/imports/Algiz_algorithm/GF2_mux_133.vhd" \
+"../../../../AlgizTest.srcs/sources_1/imports/Algiz_algorithm/GF2_mux_148.vhd" \
+"../../../../AlgizTest.srcs/sources_1/imports/Algiz_algorithm/GF2_mux_16.vhd" \
+"../../../../AlgizTest.srcs/sources_1/imports/Algiz_algorithm/GF2_mux_192.vhd" \
+"../../../../AlgizTest.srcs/sources_1/imports/Algiz_algorithm/GF2_mux_194.vhd" \
+"../../../../AlgizTest.srcs/sources_1/imports/Algiz_algorithm/GF2_mux_251.vhd" \
+"../../../../AlgizTest.srcs/sources_1/imports/Algiz_algorithm/GF2_mux_32.vhd" \
+"../../../../AlgizTest.srcs/sources_1/imports/Algiz_algorithm/encryptionblock.vhd" \
+"../../../../AlgizTest.srcs/sources_1/imports/Algiz_algorithm/fblock.vhd" \
+"../../../../AlgizTest.srcs/sources_1/imports/Algiz_algorithm/keygen.vhd" \
+"../../../../AlgizTest.srcs/sources_1/imports/Algiz_algorithm/keygen_part.vhd" \
+"../../../../AlgizTest.srcs/sources_1/imports/Algiz_algorithm/lblock.vhd" \
+"../../../../AlgizTest.srcs/sources_1/imports/Algiz_algorithm/lsxblock.vhd" \
+"../../../../AlgizTest.srcs/sources_1/imports/Algiz_algorithm/piblock.vhd" \
+"../../../../AlgizTest.srcs/sources_1/imports/Algiz_algorithm/rblock.vhd" \
+"../../../../AlgizTest.srcs/sources_1/imports/Algiz_algorithm/sblock.vhd" \
+"../../../../AlgizTest.srcs/sim_1/imports/Algiz_algorithm/top_level_encryption.vhd" \
+"../../../../AlgizTest.srcs/sources_1/imports/Algiz_algorithm/xblock.vhd" \
+"../../../../AlgizTest.srcs/sim_1/imports/Algiz_algorithm/top_level_encryption_tb.vhd" \
+
+# Do not sort compile order
+nosort

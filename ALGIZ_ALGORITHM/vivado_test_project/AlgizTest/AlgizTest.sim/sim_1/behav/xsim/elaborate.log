@@ -1,0 +1,39 @@
+Vivado Simulator 2020.1
+Copyright 1986-1999, 2001-2020 Xilinx, Inc. All Rights Reserved.
+Running: /tools/Xilinx/Vivado/2020.1/bin/unwrapped/lnx64.o/xelab -wto 6ddc0b50b1bf4f2793ea739f90c147a6 --incr --debug typical --relax --mt 8 -L xil_defaultlib -L secureip --snapshot top_level_decryption_tb_behav xil_defaultlib.top_level_decryption_tb -log elaborate.log 
+Using 8 slave threads.
+Starting static elaboration
+Completed static elaboration
+Starting simulation data flow analysis
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling package std.standard
+Compiling package std.textio
+Compiling package ieee.std_logic_1164
+Compiling package ieee.numeric_std
+Compiling architecture arch of entity xil_defaultlib.xblock [xblock_default]
+Compiling architecture arch of entity xil_defaultlib.piblock [piblock_default]
+Compiling architecture arch of entity xil_defaultlib.sblock [sblock_default]
+Compiling architecture arch of entity xil_defaultlib.lsxblock [lsxblock_default]
+Compiling architecture arch of entity xil_defaultlib.fblock [fblock_default]
+Compiling architecture arch of entity xil_defaultlib.GF2_mux_1 [gf2_mux_1_default]
+Compiling architecture arch of entity xil_defaultlib.GF2_mux_148 [gf2_mux_148_default]
+Compiling architecture arch of entity xil_defaultlib.GF2_mux_32 [gf2_mux_32_default]
+Compiling architecture arch of entity xil_defaultlib.GF2_mux_133 [gf2_mux_133_default]
+Compiling architecture arch of entity xil_defaultlib.GF2_mux_16 [gf2_mux_16_default]
+Compiling architecture arch of entity xil_defaultlib.GF2_mux_194 [gf2_mux_194_default]
+Compiling architecture arch of entity xil_defaultlib.GF2_mux_192 [gf2_mux_192_default]
+Compiling architecture arch of entity xil_defaultlib.GF2_mux_251 [gf2_mux_251_default]
+Compiling architecture arch of entity xil_defaultlib.rblock [rblock_default]
+Compiling architecture arch of entity xil_defaultlib.lblock [lblock_default]
+Compiling architecture arch of entity xil_defaultlib.keygen_part [keygen_part_default]
+Compiling architecture arch of entity xil_defaultlib.keygen [keygen_default]
+Compiling architecture arch of entity xil_defaultlib.rinvblock [rinvblock_default]
+Compiling architecture arch of entity xil_defaultlib.linvblock [linvblock_default]
+Compiling architecture arch of entity xil_defaultlib.piinvblock [piinvblock_default]
+Compiling architecture arch of entity xil_defaultlib.sinvblock [sinvblock_default]
+Compiling architecture arch of entity xil_defaultlib.sinvlinvxblock [sinvlinvxblock_default]
+Compiling architecture arch of entity xil_defaultlib.decryptionblock [decryptionblock_default]
+Compiling architecture arch of entity xil_defaultlib.top_level_decryption [top_level_decryption_default]
+Compiling architecture arch of entity xil_defaultlib.top_level_decryption_tb
+Built simulation snapshot top_level_decryption_tb_behav

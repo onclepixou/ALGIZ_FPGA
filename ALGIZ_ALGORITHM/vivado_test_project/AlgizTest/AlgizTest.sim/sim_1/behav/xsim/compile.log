@@ -1,0 +1,16 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/pixou/Programming/VivadoProjects/AlgizTest/AlgizTest.srcs/sources_1/imports/Algiz_algorithm/decryptionblock.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'decryptionblock'
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/pixou/Programming/VivadoProjects/AlgizTest/AlgizTest.srcs/sources_1/imports/Algiz_algorithm/linvblock.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'linvblock'
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/pixou/Programming/VivadoProjects/AlgizTest/AlgizTest.srcs/sources_1/imports/Algiz_algorithm/piinvblock.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'piinvblock'
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/pixou/Programming/VivadoProjects/AlgizTest/AlgizTest.srcs/sources_1/imports/Algiz_algorithm/rinvblock.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'rinvblock'
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/pixou/Programming/VivadoProjects/AlgizTest/AlgizTest.srcs/sources_1/imports/Algiz_algorithm/sinvblock.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'sinvblock'
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/pixou/Programming/VivadoProjects/AlgizTest/AlgizTest.srcs/sources_1/imports/Algiz_algorithm/sinvlinvxblock.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'sinvlinvxblock'
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/pixou/Programming/VivadoProjects/AlgizTest/AlgizTest.srcs/sim_1/imports/Algiz_algorithm/top_level_decryption.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'top_level_decryption'
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/pixou/Programming/VivadoProjects/AlgizTest/AlgizTest.srcs/sim_1/imports/Algiz_algorithm/top_level_decryption_tb.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'top_level_decryption_tb'
